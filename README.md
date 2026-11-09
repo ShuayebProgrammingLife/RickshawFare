@@ -2,6 +2,11 @@
 
 > **Smart Fare Calculator & Commute Assistant for Bangladesh**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-rickshawfare.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rickshawfare.vercel.app)
+[![Expo](https://img.shields.io/badge/Expo-SDK_54-000020?style=for-the-badge&logo=expo)](https://expo.dev/)
+
+🌐 **Live Demo:** [https://rickshawfare.vercel.app](https://rickshawfare.vercel.app)
+
 **RickshawFare** is a cross-platform mobile and web application built with **React Native** and **Expo**. It empowers daily commuters across Bangladesh to estimate fair rickshaw, CNG auto-rickshaw, and bus fares, negotiate with confidence using an interactive Bargain Bot, track routes on interactive maps, explore bus routes, and manage trip receipts.
 
 ---
