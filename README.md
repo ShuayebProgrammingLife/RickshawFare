@@ -124,3 +124,4 @@ Contributions are welcome! If you'd like to improve fare calculations, add new r
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
