@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "RickshawFare",
+    "slug": "rickshaw-fare",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/logo.png",
+    "userInterfaceStyle": "light",
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./src/assets/logo.png"
+    }
+  }
+}
